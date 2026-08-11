@@ -24,7 +24,7 @@ pool:
 variables:
 
   # Azure service connections
-  acrServiceConnection: 'AIDOCKERACR-new'
+  acrServiceConnection: 'gvnracr'
   azureServiceConnection: 'AI MANUAL'
 
   # ACR resource name (not the service connection name above) - needed for
